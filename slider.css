@@ -46,11 +46,12 @@ body {
     object-fit: cover;
 }
 
-.bullet {
+.button {
     height: 15px;
     width: 15px;
     border-radius: 50%;
     border: 1px white solid;
+    cursor: pointer;
 }
 
 .lower-section {
